@@ -20,7 +20,7 @@
 <main class="container">
     <div class="row my-3">
         <div class="col-8 offset-2 text-bg-dark rounded p-3">
-            <h1 class="fw-light">- Liste de Personnes -</h1>
+            <h1 class="fw-light">Liste de chat</h1>
             <hr>
             <table class="table table-dark text-center align-middle">
                 <thead>
